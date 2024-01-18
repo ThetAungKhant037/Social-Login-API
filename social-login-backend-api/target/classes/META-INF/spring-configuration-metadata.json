@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.educlaas.sociallogin.configuration.AppProperties",
+      "sourceType": "com.educlaas.sociallogin.configuration.AppProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
